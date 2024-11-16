@@ -1,1 +1,1 @@
-Your Name\nYour Student ID\nGit repository created from AWS EC2 instance
+Tomer Edelman\n 101400506\nGit repository created from AWS EC2 instance
